@@ -68,7 +68,23 @@ Enjoy organizing your todos!
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
 Fork the project.
-Create your feature branch: git checkout -b feature/your-feature-name
-Commit your changes: git commit -m 'Add some feature'
-Push to the branch: git push origin feature/your-feature-name
+
+Create your feature branch: 
+
+```bash
+git checkout -b feature/your-feature-name
+```
+
+Commit your changes:
+
+```bash
+git commit -m 'Add some feature'
+```
+
+Push to the branch: 
+
+```bash
+git push origin feature/your-feature-name
+```
+
 Submit a pull request.

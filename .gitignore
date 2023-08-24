@@ -1,0 +1,25 @@
+# Compiled binary files
+*.exe
+*.out
+*.dll
+
+# Dependency directories
+/bin/
+/pkg/
+/vendor/
+/go.sum
+/go.mod
+
+# Log files
+*.log
+
+# macOS system files
+.DS_Store
+
+# Windows thumbnail files
+Thumbs.db
+
+# IDE and editor-specific files
+.idea/
+.vscode/
+*.swp

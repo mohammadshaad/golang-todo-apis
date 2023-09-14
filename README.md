@@ -31,7 +31,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/mohammadshaad golang-todo-app.git
+git clone https://github.com/mohammadshaad/golang-todo-app.git
 ```
 
 Change to the project directory:
